@@ -1,0 +1,34 @@
+{
+    "posts": {
+        "markdown/404.md": {
+            "hash": "36f84c4b055917d33da1a8fc11571bb97ff438dc8dcf9608e237a3be68ca16c5",
+            "link": "404.html"
+        },
+        "markdown/about.md": {
+            "hash": "49da0acbf148e5fd6a1cd8922a04f811f3d51395e75c0088438ead16ab3b2d4e",
+            "link": "hidden"
+        },
+        "markdown/01.md": {
+            "hash": "e99deb32c8a61250d8821f962159cddce829f39fbd3c39e74e2f88c9cfa71ac5",
+            "title": "feat: Hello World // 站点自述",
+            "date_str": "2026-02-05",
+            "link": "posts/01.html",
+            "tags_list": [
+                "建站日志",
+                "极简主义"
+            ],
+            "hidden": false,
+            "status": "published"
+        }
+    },
+    "static_files": {
+        "assets/style.css": "44eb69965800a93456fa16ccf6c4974f790e28f6ee23ee7c8a3e2a42cfbf88c9"
+    },
+    "templates": {
+        "templates/base.html": "a1b177bca1f5ac07ae54140404274c68461ca50950b0e2995ecb3f6ab779e608",
+        "autobuild.py": "1a051265e5386720678bc143aadf441e540c79f10c91d12b7a1058add8d00ab4",
+        "parser.py": "cd6f5f49fc69e8e12f85ee9a804374df6b3012da8cf41254fa4fa9f5a51b462b",
+        "generator.py": "ef4de272134d3576e365b4c5bbf4bd8ed410a778bfebf5488c33530136abc8e8",
+        "config.py": "03ef0e4d01c7aadea2d0677d4d9462dc4a81a518ae9d060003ecee7a49fcbcfd"
+    }
+}
